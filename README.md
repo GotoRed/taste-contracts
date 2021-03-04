@@ -1,4 +1,4 @@
-# Taste Finance
+# ALIEN Finance
 
 https://aliencrypto.finance Feel free to read the code. More details coming soon.
 
